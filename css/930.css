@@ -1,0 +1,28 @@
+.hide__on_mobile{
+    display: none;
+}
+
+.section-5 {
+    flex-direction: column;
+}
+.container__nomargin_right {
+    padding: 6rem 9rem 6rem 9rem;
+}
+
+
+.section-text-list ul {
+    margin-left: 9rem;
+}
+
+.apps__types_list{
+    width: 200%;
+}
+
+.section-7__content {
+    width: 90%;
+}
+
+.footer {
+    flex-direction: column;
+    text-align: center;
+}

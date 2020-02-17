@@ -1,0 +1,52 @@
+.container {
+    padding: 2rem;
+}
+
+.container__nomargin_right, .section-text-list {
+    padding: 2rem !important;
+}
+
+.section-7__content {
+    height: auto;
+}
+
+.section-7__content--text-bold {
+    height: auto;
+}
+
+.section-7__button , .section-2__button{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+    position: relative;
+}
+
+.section-7 {
+    height: auto;
+    width: 100%;
+}
+
+.apps__types_list {
+    width: 102%;
+}
+
+.section-7__button .decalage, .section-2__button .decalage {
+    margin-top: 1rem;
+    margin-left: 0rem;
+}
+
+.btn {
+    width: 13rem;
+}
+
+.section-1__text-big {
+    font-size: 1.8rem;
+    line-height: 3rem;
+}
+
+..section-2__img{
+    display: none;
+}
